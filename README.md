@@ -57,14 +57,13 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 ## Output:
-```
+
 ![image](https://github.com/Tarun-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145584190/86f06d7d-7728-4055-9f34-077e6dfd3f39)
 
 ![image](https://github.com/Tarun-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145584190/49eeaf1b-0b42-4c67-a54c-b19fda9da4c5)
 
 ![image](https://github.com/Tarun-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145584190/0f259182-381a-4596-ba9a-64b1eed7695e)
 
-```
 
 
 
